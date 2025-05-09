@@ -16,5 +16,3 @@ github : https://github.com/openai/human-eval
 🔹 4. CodeXGLUE – Code Refinement
 https://github.com/microsoft/CodeXGLUE
 
-HuggingFace token Read permission:
-
